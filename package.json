@@ -1,0 +1,22 @@
+{
+  "name": "nomad_crome_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BOSEES/nomad_crome_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BOSEES/nomad_crome_app/issues"
+  },
+  "homepage": "https://github.com/BOSEES/nomad_crome_app#readme",
+  "dependencies": {
+    "mocha-jsdom": "^2.0.0"
+  }
+}
